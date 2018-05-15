@@ -1,5 +1,7 @@
 def looping
-	#your code here
+	while 4 < 5
+	  puts "Wingardium Leviosa"
+	end
 end
 
-#call your method here
+looping
